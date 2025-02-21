@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: chaews0327@gmail.com
   timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: Korean
+  citizenship: 
   website: https://chaews0327.tistory.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: 
   xing: 
@@ -70,7 +70,7 @@ education:
   title: Education
   info:
   - degree: MSc in AI Graduate School
-    university: Ulsan National Institute of Science and Technology
+    university: Ulsan National Institute of Science and Technology (UNIST)
     time: 2025 - Current
   - degree: BSc in School of Software
     university: Kookmin University
@@ -166,7 +166,6 @@ publications:
   title: Publications
   papers:
   - title: A Study of Emotion Classification Systems Through LLM-Based Facial Recognition Learning
-    link: "TBD"
     authors: Rinhoe Kim, Chaewon Shin, Yeji Kim, Gahyun Lee, Juseo Kim, Suhwan Jung, Sooyeon Yoon
     conference: Korea Institute of Communication Sciences(KICS), Feb. 2025
 
