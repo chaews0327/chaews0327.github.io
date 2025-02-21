@@ -102,10 +102,12 @@ certifications:
     start: 2021
     end: 2025
     organization: Korea Student Aid Foundation
-  - name: Grand Prize in Capstone Design
+  - name: Grand Prize
+      Capstone Design
     start: 2024. 05. 31
     organization: School of Computer Science, Kookmin University
-  - name: Sponsored Company Award (Netmarble) in Software-Centered University Excellence Project Competition
+  - name: Sponsored Company Award (Netmarble)
+      Software-Centered University Excellence Project Competition
     start: 2024. 12. 04
     organization: Ministry of Science and ICT
 
