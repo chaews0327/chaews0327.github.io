@@ -4,18 +4,18 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Chaewon Shin
-  tagline: AI Researcher
+  tagline: AI Engineer/Researcher
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: chaews0327@gmail.com
   timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  citizenship: Korean
   website: https://chaews0327.tistory.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: 
   xing: 
@@ -49,7 +49,7 @@ sidebar:
       link:
 
 
-    - item: RAG
+    - item: Multimodal RAG
       link:
 
 
