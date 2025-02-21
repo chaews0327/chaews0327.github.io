@@ -103,6 +103,14 @@ certifications:
     end: 2025
     organization: Korea Student Aid Foundation
 
+recommendations:
+  title: Honors
+  info:
+  - name: Grand Prize
+    time: 2024. 05. 31.
+    company: Capstone Design
+      School of Computer Science, Kookmin University
+
 projects:
   title: Projects
   intro: >
