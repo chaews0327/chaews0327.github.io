@@ -96,20 +96,15 @@ experiences:
     company: Machine Intelligence Lab in KMU, South Korea, Prof. Jaekoo Lee 
 
 certifications:
-  title: Scholorships
+  title: Honors and Scholorships
   list:
   - name: National Science & Technology Scholarship
     start: 2021
     end: 2025
     organization: Korea Student Aid Foundation
-
-certifications:
-  title: Honors
-  list:
-  - name: Grand Prize
-    time: 2024. 05. 31.
-    organization: Capstone Design
-      School of Computer Science, Kookmin University
+  - name: Grand Prize in Capstone Design
+    start: 2024. 05. 31
+    organization: School of Computer Science, Kookmin University
 
 projects:
   title: Projects
