@@ -77,23 +77,59 @@ education:
     time: 2021 - 2025
   - degree: Exchange Student in Computer Science
     university: University of California, Irvine
-    time: 2024 Summer
+    time: Summer 2024
   - degree: Exchange Student in Computer Science
     university: University of Wisconsin, La Crosse
-    time: 2022 Fall
+    time: Fall 2022
 
 experiences:
   title: Experiences
   info:
   - role: Research Team Intern
-    time: 2024 Dec. - 2025 Feb.
+    time: Dec. 2024 - Feb. 2025
     company: Lablup Inc., South Korea
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
   - role: Undergraduate Student Researcher
-    time: 2024 Jul. - 2024 Aug.
+    time: Jul. 2024 - Aug. 2024
     company: Health SciTech Group in UC Irvine, USA, Prof. Amir Rahmani
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
   - role: Undergraduate Student Researcher
-    time: 2023 Mar. - 2024 Jun.
-    company: Machine Intelligence Lab in KMU, South Korea, Prof. Jaekoo Lee 
+    time: Mar. 2023 - Jun. 2024
+    company: Machine Intelligence Lab in KMU, South Korea, Prof. Jaekoo Lee
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
 
 certifications:
   title: Honors and Scholorships
@@ -104,55 +140,35 @@ certifications:
     organization: Korea Student Aid Foundation
   - name: Grand Prize
     start: 2024. 05. 31
-    organization: School of Computer Science, Kookmin University
+    organization: Capstone Design Final Presentation, School of Computer Science, Kookmin University
   - name: Sponsored Company Award (Netmarble)
-      >
-      Software-Centered University Excellence Project Competition
     start: 2024. 12. 04
-    organization: Ministry of Science and ICT
+    organization: Software-Centered University Excellence Project Competition, Ministry of Science and ICT
 
 projects:
   title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Facial forgery detection technique using Multimodal LLM
+    tagline: "AI Developer, Industry-University Co-operation(Kakaobank), Oct.2024-Dec.2024"
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Enhenced Evaluation Framework for Questioning Capabilities of LLMs in Healthcare
+    tagline: "Researcher and Prompt Engineer, KMU-UCI Joint Research Project, Jul.2024-Aug.2024"
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: PROBEE, Intelligent Missing Person Search System
+    link: "https://github.com/kookmin-sw/capstone-2024-14"
+    tagline: "AI Developer, KMU Capstone Design Project, Dec.2023-May.2024"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: Analysis of Hate Speech in Ilbe Storehouse (Daily-Best Archaive, 일간베스트저장소) Comments
+    link: "https://github.com/chaews0327/Hate-Speech"
+    tagline: "Personal Project, Mar.2023-Apr.2023"
 
 publications:
   title: Publications
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title: A Study of Emotion Classification Systems Through LLM-Based Facial Recognition Learning
+    link: "TBD"
+    authors: Rinhoe Kim, Chaewon Shin, Yeji Kim, Gahyun Lee, Juseo Kim, Suhwan Jung, Sooyeon Yoon
+    conference: Korea Institute of Communication Sciences(KICS), Feb. 2025
 
 skills:
   title: Skills &amp; Proficiency
