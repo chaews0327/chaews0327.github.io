@@ -45,15 +45,18 @@ sidebar:
   interests:
     title: Interests
     info:
+    - item: Knowledge Graph
+      link:
+
+
+    - item: Explainable AI
+      link:
+
+
+    - item: Mutimodal RAG
+      link:
+
     - item: Medical AI
-      link:
-
-
-    - item: Multimodal RAG
-      link:
-
-
-    - item: Large Language Model
       link:
 
 
@@ -137,17 +140,29 @@ certifications:
   - name: National Science & Technology Scholarship
     start: 2021
     end: 2025
-    organization: Korea Student Aid Foundation
-  - name: Grand Prize
-    start: 2024. 05. 31
-    organization: Capstone Design Final Presentation, School of Computer Science, Kookmin University
-  - name: Sponsored Company Award (Netmarble)
-    start: 2024. 12. 04
-    organization: Software-Centered University Excellence Project Competition, Ministry of Science and ICT
+    organization: Korea Student Aid Foundation, Korea
+  - name: Sponsored Company Award (Netmarble), Software-Centered University Excellence Project Competition
+    start: 2024. 12
+    organization: Ministry of Science and ICT, Korea
+  - name: Excellent Work; no honors achieved, Open Software Developer Competition
+    start: 2024. 12
+    organization: National IT Industry Promotion Agency, Korea
+  - name: Grand Prize, Capstone Design Final Presentation
+    start: 2024. 05
+    organization: School of Computer Science, Kookmin University, Korea
 
 projects:
   title: Projects
   assignments:
+  - title: Predicting Adverse Events of Medical Devices using Knowledge Graphs
+    tagline: "UNIST, Jul.2025-Present"
+
+  - title: Trustworthiness in Multiple ECG Analyses based on Vision Language Models (VLMs)
+    tagline: "UNIST&MedicalAI Co., Jun.2025-Present"
+
+  - title: Survival Analysis with Lymph Nodes Information in Gastric Cancer
+    tagline: "UNIST&SNUH, Apr.2025-Present"
+
   - title: Facial forgery detection technique using Multimodal LLM
     tagline: "AI Developer, Industry-University Co-operation(Kakaobank), Oct.2024-Dec.2024"
 
@@ -165,6 +180,9 @@ projects:
 publications:
   title: Publications
   papers:
+  - title: HealthQ: Unveiling Questioning Capabilities of LLM Chains in Healthcare Conversations
+    authors: Ziyu Wang, Hao Li, Di Huang, Hye-Sung Kim, Chae-Won Shin, Amir M. Rahmani
+    conference: Smart Health, Jun. 2025
   - title: A Study of Emotion Classification Systems Through LLM-Based Facial Recognition Learning
     authors: Rinhoe Kim, Chaewon Shin, Yeji Kim, Gahyun Lee, Juseo Kim, Suhwan Jung, Sooyeon Yoon
     conference: Korea Institute of Communication Sciences(KICS), Feb. 2025
