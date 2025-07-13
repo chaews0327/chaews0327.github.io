@@ -109,20 +109,20 @@ certifications:
   list:
   - name: Best Student Paper (HealthQ)
     start: 2025. 06
-    organization: ACM CHASE 2025
+    organization: IEEE/ACM CHASE 2025, Manhattan, New York City, USA
   - name: National Science & Technology Scholarship
     start: 2021
     end: 2025
-    organization: Korea Student Aid Foundation, Korea
-  - name: Sponsored Company Award (Netmarble), Software-Centered University Excellence Project Competition
+    organization: Korea Student Aid Foundation, South Korea
+  - name: Sponsored Company Award, Software-Centered University Excellence Project Competition
     start: 2024. 12
-    organization: Ministry of Science and ICT, Korea
+    organization: Ministry of Science and ICT, South Korea
   - name: Excellent Work; no honors achieved, Open Software Developer Competition
     start: 2024. 12
-    organization: National IT Industry Promotion Agency, Korea
+    organization: National IT Industry Promotion Agency, South Korea
   - name: Grand Prize, Capstone Design Final Presentation
     start: 2024. 05
-    organization: School of Computer Science, Kookmin University, Korea
+    organization: School of Computer Science, Kookmin University, South Korea
 
 projects:
   title: Projects
