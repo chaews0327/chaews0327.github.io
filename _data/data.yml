@@ -180,7 +180,7 @@ projects:
 publications:
   title: Publications
   papers:
-  - title: HealthQ: Unveiling Questioning Capabilities of LLM Chains in Healthcare Conversations
+  - title: "HealthQ: Unveiling Questioning Capabilities of LLM Chains in Healthcare Conversations"
     authors: Ziyu Wang, Hao Li, Di Huang, Hye-Sung Kim, Chae-Won Shin, Amir M. Rahmani
     conference: Smart Health, Jun. 2025
   - title: A Study of Emotion Classification Systems Through LLM-Based Facial Recognition Learning
