@@ -107,6 +107,9 @@ experiences:
 certifications:
   title: Honors and Scholorships
   list:
+  - name: Best Student Paper (HealthQ)
+    start: 2025. 06
+    organization: ACM CHASE 2025
   - name: National Science & Technology Scholarship
     start: 2021
     end: 2025
