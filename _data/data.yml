@@ -104,6 +104,26 @@ experiences:
     details: |
       Undergraduate Student Researcher
 
+certifications:
+  title: Honors and Scholorships
+  list:
+  - name: Best Student Paper (HealthQ)
+    start: 2025. 06
+    organization: IEEE/ACM CHASE 2025, Manhattan, New York City, USA
+  - name: National Science & Technology Scholarship
+    start: 2021
+    end: 2025
+    organization: Korea Student Aid Foundation, South Korea
+  - name: Sponsored Company Award, Software-Centered University Excellence Project Competition
+    start: 2024. 12
+    organization: Ministry of Science and ICT, South Korea
+  - name: Excellent Work; no honors achieved, Open Software Developer Competition
+    start: 2024. 12
+    organization: National IT Industry Promotion Agency, South Korea
+  - name: Grand Prize, Capstone Design Final Presentation
+    start: 2024. 05
+    organization: School of Computer Science, Kookmin University, South Korea
+
 projects:
   title: Projects
   assignments:
@@ -139,26 +159,6 @@ publications:
   - title: A Study of Emotion Classification Systems Through LLM-Based Facial Recognition Learning
     authors: Rinhoe Kim, Chaewon Shin, Yeji Kim, Gahyun Lee, Juseo Kim, Suhwan Jung, Sooyeon Yoon
     conference: Korea Institute of Communication Sciences(KICS), Feb. 2025
-
-certifications:
-  title: Honors and Scholorships
-  list:
-  - name: Best Student Paper (HealthQ)
-    start: 2025. 06
-    organization: IEEE/ACM CHASE 2025, Manhattan, New York City, USA
-  - name: National Science & Technology Scholarship
-    start: 2021
-    end: 2025
-    organization: Korea Student Aid Foundation, South Korea
-  - name: Sponsored Company Award, Software-Centered University Excellence Project Competition
-    start: 2024. 12
-    organization: Ministry of Science and ICT, South Korea
-  - name: Excellent Work; no honors achieved, Open Software Developer Competition
-    start: 2024. 12
-    organization: National IT Industry Promotion Agency, South Korea
-  - name: Grand Prize, Capstone Design Final Presentation
-    start: 2024. 05
-    organization: School of Computer Science, Kookmin University, South Korea
 
 skills:
   title: Skills &amp; Proficiency
