@@ -85,6 +85,25 @@ education:
     university: University of Wisconsin, La Crosse
     time: Fall 2022
 
+experiences:
+  title: Experiences
+  info:
+  - role: Research Team Intern
+    time: Dec. 2024 - Feb. 2025
+    company: Lablup Inc., South Korea
+    details: |
+      Building a Multimodal RAG-Based Chatbot
+  - role: UCI-KMU GREAT Program
+    time: Jul. 2024 - Aug. 2024
+    company: Health SciTech Group in UC Irvine, USA, Prof. Amir Rahmani
+    details: |
+      Enhancing Healthcare Diagnostics in Multi-Turn LLM
+  - role: Research Student
+    time: Mar. 2023 - Jun. 2024
+    company: Machine Intelligence Lab in KMU, South Korea, Prof. Jaekoo Lee
+    details: |
+      Undergraduate Student Researcher
+
 projects:
   title: Projects
   assignments:
@@ -110,25 +129,6 @@ projects:
   - title: Analysis of Hate Speech in Ilbe Storehouse (Daily-Best Archaive, 일간베스트저장소) Comments
     link: "https://github.com/chaews0327/Hate-Speech"
     tagline: "Personal Project, Mar.2023-Apr.2023"
-
-experiences:
-  title: Experiences
-  info:
-  - role: Research Team Intern
-    time: Dec. 2024 - Feb. 2025
-    company: Lablup Inc., South Korea
-    details: |
-      Building a Multimodal RAG-Based Chatbot
-  - role: UCI-KMU GREAT Program
-    time: Jul. 2024 - Aug. 2024
-    company: Health SciTech Group in UC Irvine, USA, Prof. Amir Rahmani
-    details: |
-      Enhancing Healthcare Diagnostics in Multi-Turn LLM
-  - role: Research Student
-    time: Mar. 2023 - Jun. 2024
-    company: Machine Intelligence Lab in KMU, South Korea, Prof. Jaekoo Lee
-    details: |
-      Undergraduate Student Researcher
 
 publications:
   title: Publications
