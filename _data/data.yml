@@ -85,6 +85,11 @@ education:
 experiences:
   title: Experiences
   info:
+  - role: Research Student
+    time: Mar. 2025 - Current
+    company: Intelligence and Control-based BioMedicine Lab in UNIST, South Korea, Prof. Min-Hyuk Lim
+    details: |
+      Graduate Student Researcher
   - role: Research Team Intern
     time: Sep. 2025 - Dec. 2025
     company: CJ AI Center, South Korea
