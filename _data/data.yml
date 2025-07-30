@@ -79,15 +79,17 @@ education:
     university: Kookmin University
     time: 2021 - 2025
   - degree: Exchange Student in Computer Science
-    university: University of California, Irvine
-    time: Summer 2024
-  - degree: Exchange Student in Computer Science
     university: University of Wisconsin, La Crosse
     time: Fall 2022
 
 experiences:
   title: Experiences
   info:
+  - role: Research Team Intern
+    time: Sep. 2025 - Dec. 2025
+    company: CJ AI Center, South Korea
+    details: |
+      TBD
   - role: Research Team Intern
     time: Dec. 2024 - Feb. 2025
     company: Lablup Inc., South Korea
